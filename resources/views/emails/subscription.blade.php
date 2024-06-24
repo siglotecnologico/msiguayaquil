@@ -90,13 +90,16 @@
         <div class="footer">
             <p>Síguenos en nuestras redes sociales:</p>
             <div class="social-links">
-                <a href="https://www.instagram.com/msiguayaquil/" target="_blank" rel="noopener noreferrer"><img src="https://msiguayaquil.com/icon/instagram.png" alt="Instagram">
+                <a href="https://www.instagram.com/msiguayaquil/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://msiguayaquil.com/icon/instagram.png" alt="Instagram" width="30" height="30">
                 </a>
-                <a href="https://www.facebook.com/msiguayaquil/" target="_blank" rel="noopener noreferrer"><img src="https://msiguayaquil.com/icon/facebook.png" alt="Facebook">
+                <a href="https://www.facebook.com/msiguayaquil/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://msiguayaquil.com/icon/facebook.png" alt="Facebook" width="30" height="30">
                 </a>
-                <a href="https://www.youtube.com/@msiguayaquil2330" target="_blank" rel="noopener noreferrer"><img src="https://msiguayaquil.com/icon/youtube.png" alt="YouTube">
+                <a href="https://www.youtube.com/@msiguayaquil2330" target="_blank" rel="noopener noreferrer">
+                    <img src="https://msiguayaquil.com/icon/youtube.png" alt="YouTube" width="30" height="30">
                 </a>
-            </div>
+            </div> 
             <p> ©2024 MSI Guayaquil. Todos los derechos reservados.</p>
         </div>
     </div>
