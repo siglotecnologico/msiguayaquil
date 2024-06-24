@@ -84,7 +84,7 @@
         <div class="content">
             <p>Hola,</p>
             <p>Gracias por suscribirte a nuestro boletín. Estamos emocionados de tenerte con nosotros. Pronto recibirás actualizaciones y noticias importantes.</p>
-            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:info@msiguayaquil.org">contactarnos</a>.</p>
+            <p>Si tienes alguna pregunta, no dudes en <a href="mailto:info@msiguayaquil.com">contactarnos</a>.</p>
             <p>Gracias,<br>El equipo de MSI Guayaquil</p>
         </div>
         <div class="footer">
@@ -99,7 +99,7 @@
                 <a href="https://www.youtube.com/@msiguayaquil2330" target="_blank" rel="noopener noreferrer">
                     <img src="https://msiguayaquil.com/icon/youtube.png" alt="YouTube" width="30" height="30">
                 </a>
-            </div> 
+            </div>
             <p> ©2024 MSI Guayaquil. Todos los derechos reservados.</p>
         </div>
     </div>
