@@ -99,6 +99,9 @@
                 <a href="https://www.youtube.com/@msiguayaquil2330" target="_blank" rel="noopener noreferrer">
                     <img src="https://msiguayaquil.com/icon/youtube.png" alt="YouTube" width="30" height="30">
                 </a>
+                <a href="https://www.tiktok.com/@msiguayaquil?lang=es" target="_blank" rel="noopener noreferrer">
+                    <img src="https://msiguayaquil.com/icon/tiktok.png" alt="TikTok" width="30" height="30">
+                </a>
             </div>
             <p> ©2024 MSI Guayaquil. Todos los derechos reservados.</p>
         </div>

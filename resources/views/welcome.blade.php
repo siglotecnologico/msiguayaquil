@@ -77,9 +77,10 @@
                 <div class="col-md-4">
                     <h5>Horarios de Servicios</h5>
                     <p>
-                        Miércoles: 7:30 p.m. - 9:00 p.m.<br>
-                        Sábado: 7:30 p.m. - 9:00 p.m.<br>
-                        Domingo: 10:00 a.m. - 12:00 p.m.
+                        Miércoles: 19:30 p.m. - 21:00 p.m.<br>
+                        Sábado: 19:30 p.m. - 21:00 p.m.<br>
+                        Domingo: 10:00 a.m. - 12:00 p.m.<br>
+                        Domingo: 18:00 a.m. - 20:00 p.m.
                     </p>
                 </div>
                 <div class="col-md-4">
@@ -93,6 +94,9 @@
                         </a><br>
                         <a href="https://www.youtube.com/@msiguayaquil2330" target="_blank" rel="noopener noreferrer">
                             <i class="fab fa-youtube"></i> YouTube
+                        </a><br>
+                        <a href="https://www.tiktok.com/@msiguayaquil?lang=es" target="_blank" rel="noopener noreferrer">
+                            <i class="fa-brands fa-tiktok"></i> TikTok
                         </a>
                     </p>
                 </div>
