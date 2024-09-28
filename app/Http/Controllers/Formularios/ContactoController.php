@@ -25,7 +25,7 @@ class ContactoController extends Controller
         // Enviar notificación a la organización
         Mail::raw("Nuevo suscriptor al boletín:\nEmail: {$validatedData['email']}", function($message) use ($validatedData) {
             $message->to('info@msiguayaquil.com')
-                    ->subject('Nueva suscripción al boletín');
+                    ->subject('Nueva suscripción al boletín MSI');
         });
 
         if ($request->ajax()) {
