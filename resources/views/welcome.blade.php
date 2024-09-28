@@ -80,7 +80,7 @@
                         Miércoles: 19:30 p.m. - 21:00 p.m.<br>
                         Sábado: 19:30 p.m. - 21:00 p.m.<br>
                         Domingo: 10:00 a.m. - 12:00 p.m.<br>
-                        Domingo: 18:00 a.m. - 20:00 p.m.
+                        Domingo: 18:00 p.m. - 20:00 p.m.
                     </p>
                 </div>
                 <div class="col-md-4">
